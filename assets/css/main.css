@@ -483,6 +483,14 @@ section {
     color: var(--light-color);
 }
 
+.swiper-pagination {
+    bottom: .5rem !important;
+}
+
+.swiper-pagination-bullet {
+    background-color: var(--light-color);
+}
+
 /* Quick read - Swiper */
 
 /* Older posts */
